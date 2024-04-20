@@ -1,0 +1,107 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4 {
+    margin: 0;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px 0;
+}
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.menu li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+bienvenidos{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.images img {
+    max-width: 100px;
+    margin: 10px;
+}
+
+header {
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.recipiente {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+. recipiente h3 {
+    color: #333;
+    text-align: center;
+}
+
+. recipiente img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.detalles, .instructiones, .video-contenedor {
+    margin-top: 20px;
+}
+
+.detalles h4, .instructiones h4, .video-contenedor h4 {
+    color: #333;
+}
+
+.detalles ul, .instructiones ol {
+    padding-left: 20px;
+}
+
+.video-contenedor video {
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+.informacion {
+    list-style-type: none;
+    padding: 0; 
+    margin: 0; 
+}
+
+.informacion li {
+    margin-bottom: 10px;
+}
+
+.bi {
+    margin-right: 5px; 
+}
+
